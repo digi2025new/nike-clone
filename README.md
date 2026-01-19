@@ -118,28 +118,27 @@ npm run build
 ## 📸 Screenshots
 
 ### 🏠 Home / Hero Section
-<img width="100%" alt="Home / Hero Section" src="https://github.com/user-attachments/assets/0cc4d32d-b844-47ab-8013-816a75f4ce08" />
+![Home](screenshots/hero.png)
 
 ---
 
 ### 🌙 Dark Mode
-<img width="100%" alt="Dark Mode" src="https://github.com/user-attachments/assets/154b37f6-4c56-40fe-9438-29df68730291" />
+![Dark Mode](screenshots/dark-mode.png)
 
 ---
 
 ### 📱 Mobile View
-<img width="100%" alt="Mobile View" src="https://github.com/user-attachments/assets/71a89cb6-c244-4dfb-b9f0-7e0b76e12e79" />
+![Mobile](screenshots/mobile.png)
 
 ---
 
 ### ℹ️ About Us Section
-<img width="100%" alt="About Us" src="https://github.com/user-attachments/assets/9fe6793c-c02a-4299-9d77-1738fb2a870c" />
+![About](screenshots/about.png)
 
 ---
 
 ### 👟 Products Section
-<img width="100%" alt="Products" src="https://github.com/user-attachments/assets/244da604-bd50-4c13-a143-d1ffe559f45d" />
-
+![Products](screenshots/products.png)
 
 
 ---
