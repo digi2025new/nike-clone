@@ -119,22 +119,28 @@ npm run build
 ## 📸 Screenshots
 
 ### 🏠 Home / Hero Section
-![Home](screenshots/hero.png)
+![Home](./screenshots/hero.png)
 
 ---
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](./screenshots/dark-mode.png)
 
 ---
 
 ### 📱 Mobile View
-![Mobile](screenshots/mobile.png)
+![Mobile View](./screenshots/mobile.png)
 
 ---
 
 ### ℹ️ About Us Section
-![About](screenshots/about.png)
+![About Us](./screenshots/about.png)
+
+---
+
+### 👟 Products Section
+![Products](./screenshots/products.png)
+
 
 ---
 
