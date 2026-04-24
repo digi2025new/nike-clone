@@ -74,7 +74,7 @@ nike-clone/
 
 Follow these steps to run the project locally:
 
-```bash
+``bash
 # Clone the repository
 git clone https://github.com/digi2025/nike-clone.git
 
@@ -169,11 +169,3 @@ GitHub: https://github.com/digi2025new
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it really motivates me!
-
----
-
-🚀 Future Enhancements
-- Product filtering & search
-- Backend integration
-- Performance optimization
-- SEO improvements
